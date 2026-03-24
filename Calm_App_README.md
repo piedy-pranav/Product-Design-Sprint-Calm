@@ -120,8 +120,7 @@ Users are routed based on emotional state selection (Frustrated, Anxious, Scared
 ```
 ├── README.md                    ← This file
 ├── Group3_Final_Project_Report  ← Full design sprint report with appendix
-├── Prototype/                   ← Interactive prototype files
-└── User_Research/               ← Interview notes and video links
+└── User_Research/               ← Interview notes
 ```
 
 ---
@@ -130,4 +129,3 @@ Users are routed based on emotional state selection (Frustrated, Anxious, Scared
 
 - [Product Sprint Working Board (Mural)](https://app.mural.co/t/dataing7514/m/dataing7514/1770342155914/2c074bd6e10850be67ccb7169b252c9fc463ca97)
 - [User Interview Notes](https://docs.google.com/document/d/10N3TzKd4b4TZFH644k7YApb-B8WFuaqF7JuzOd2tOOg/edit)
-- [User Interview Video](https://photos.app.goo.gl/e1pdBxJqbH18gLbe8)
